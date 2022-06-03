@@ -1,0 +1,2 @@
+# hoodie-js
+Desenvolvendo um jogo simples em Javascript como estudo. Hoodie surgiu de fato verídico (este jogo é baseado em fatos reais rsrsrs): eu estava atrasando para um compromisso , saí correndo como de costume e tinham sacos de lixo impedindo a passagem pela calçada, eu sobrevoei com um salto e não pisei nos sacos de lixo. Quando contei a minha namorada , ela disse faz um joguinho e eu aceitei o desafio. Começo aqui uma série de estudos para desenvolver Hoodie , ainda com um personagem que será temporário. Bons estudos!!!!
